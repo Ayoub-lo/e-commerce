@@ -1,8 +1,3 @@
 # E-Commerce Project
 
-This is a simple shopping cart system made with Python.
-
-## Features:
-- Add to cart
-- Remove product
-- Validate order
+un mini logiciel de type e-commerce en mode terminal 
