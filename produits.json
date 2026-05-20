@@ -1,0 +1,14 @@
+{
+  "1": {
+    "nom": "telephon",
+    "prix": 566
+  },
+  "2": {
+    "nom": "pc",
+    "prix": 989
+  },
+  "3": {
+    "nom": "television",
+    "prix": 100
+  }
+}
